@@ -53,3 +53,12 @@ function desencriptar (stringDesencriptada) {
 
     return stringDesencriptada;         //retorna a variável//
 }
+
+function btnCopiar() {
+    // Seleciona o elemento textarea
+    const textoArea = document.querySelector(".apresentacao__mensagem__texto");
+
+    // Copia o texto para a área de transferência usando a API Clipboard
+    navigator.clipboard.writeText(textoArea.value);
+    textoArea.value = "";
+}
