@@ -11,3 +11,14 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+
+<h2> Melhorias aplicadas no desafio</h2>
+<p>* Estilização dos notões: utilizei o efeito "HOVER" nos botões de modo que quando passamos o cursor por cima, eles são destacados em outra cor.
+* Layout Responsivo: neste projeto utilizei o "media query", definindo assim, um tamanho de tela para o celular outro para o tablet e deixar a “padrão” para o desktop.
+</p>
+
+## Layout
+<h2>Layout</h2>
+<div>
+  <img src="./assets/Layout.PNG">
+</div>
