@@ -55,10 +55,10 @@ function desencriptar (stringDesencriptada) {
 }
 
 function btnCopiar() {
-    // Seleciona o elemento textarea
+    // Seleciona o elemento textarea//
     const textoArea = document.querySelector(".apresentacao__mensagem__texto");
 
-    // Copia o texto para a área de transferência usando a API Clipboard
+    // Copia o texto para a área de transferência usando a API Clipboard//
     navigator.clipboard.writeText(textoArea.value);
-    textoArea.value = "";
+    textoArea.value = "";                          // some o valor após copiar//
 }
