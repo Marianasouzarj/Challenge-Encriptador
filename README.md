@@ -18,7 +18,7 @@
 </p>
 
 ## Layout
-<h2>Layout</h2>
+
 <div>
   <img src="./assets/Layout.PNG">
 </div>
